@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout app repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -35,7 +37,9 @@ jobs:
             echo "No changes in public/weather-daily.json"
           else
             git commit -m "chore(weather): refresh shared daily snapshot"
-            git push
+            git fetch origin "$GITHUB_REF_NAME"
+            git rebase "origin/$GITHUB_REF_NAME"
+            git push origin "$GITHUB_REF_NAME"
           fi
 
       - name: Sync to external datasets repo (optional)
@@ -62,6 +66,9 @@ jobs:
             echo "No changes for datasets repo"
           else
             git commit -m "chore(weather): refresh daily shared snapshot"
+            git fetch origin
+            BR=$(git rev-parse --abbrev-ref HEAD)
+            git rebase "origin/$BR"
             git push
           fi
 
