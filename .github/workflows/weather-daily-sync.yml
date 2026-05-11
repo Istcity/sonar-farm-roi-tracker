@@ -1,0 +1,64 @@
+name: Weather Daily Sync
+
+on:
+  schedule:
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-and-sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout app repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate weather-daily.json
+        run: npm run weather:daily:generate
+
+      - name: Commit generated file to app repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/weather-daily.json
+          if git diff --cached --quiet; then
+            echo "No changes in public/weather-daily.json"
+          else
+            git commit -m "chore(weather): refresh shared daily snapshot"
+            git push
+          fi
+
+      - name: Sync to external datasets repo (optional)
+        if: ${{ secrets.DATASETS_REPO_TOKEN != '' }}
+        env:
+          DATASETS_REPO_TOKEN: ${{ secrets.DATASETS_REPO_TOKEN }}
+          DATASETS_REPO: ${{ vars.DATASETS_REPO }}
+        run: |
+          if [ -z "$DATASETS_REPO" ]; then
+            echo "DATASETS_REPO repo variable missing. Expected owner/repo."
+            exit 0
+          fi
+          git clone "https://x-access-token:${DATASETS_REPO_TOKEN}@github.com/${DATASETS_REPO}.git" datasets-repo
+          mkdir -p datasets-repo
+          cp public/weather-daily.json datasets-repo/weather-daily.json
+          cd datasets-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add weather-daily.json
+          if git diff --cached --quiet; then
+            echo "No changes for datasets repo"
+          else
+            git commit -m "chore(weather): refresh daily shared snapshot"
+            git push
+          fi
+

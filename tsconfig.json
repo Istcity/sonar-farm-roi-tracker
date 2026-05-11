@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
+    "types": ["nativewind/types"]
+  },
+  "include": ["**/*.ts", "**/*.tsx", "**/*.d.ts", "nativewind-env.d.ts"],
+  "exclude": ["ui-ux-pro-max-skill-main/**", "node_modules/**"]
+}

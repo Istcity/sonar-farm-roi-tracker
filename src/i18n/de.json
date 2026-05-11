@@ -1,0 +1,50 @@
+{
+  "dashboard": {
+    "title": "Farm Dashboard",
+    "weather": "Weather",
+    "tasks": "Today's Tasks",
+    "addExpense": "Add New Expense",
+    "totalCost": "Total Cost",
+    "harvestYear": "Harvest Year",
+    "estimatedRevenue": "Estimated Revenue",
+    "recentExpenses": "Recent Expenses",
+    "premiumAlert": "Premium feature - membership coming soon",
+    "supportedContent": "Sponsored Content",
+    "expoMock": "AdMob Slot (Expo Go Mock)"
+  },
+  "costs": {
+    "title": "Expense Tracking",
+    "all": "All",
+    "delete": "Delete",
+    "totalExpense": "Total Expense",
+    "count": "Count"
+  },
+  "about": {
+    "title": "About",
+    "privacy": "Privacy",
+    "permissions": "Permissions",
+    "ads": "Ads",
+    "compliance": "Compliance",
+    "contact": "Contact"
+  },
+  "tabs": { "dashboard": "Dashboard", "costs": "Costs", "about": "About" },
+  "modal": {
+    "title": "Add New Expense",
+    "category": "Category",
+    "amount": "Amount",
+    "date": "Date",
+    "note": "Note",
+    "save": "Save",
+    "cancel": "Cancel",
+    "customCategory": "Other / Custom Add"
+  },
+  "categories": {
+    "gubre": "Fertilizer",
+    "iscilik": "Labor",
+    "mazot": "Fuel",
+    "ilaclama": "Spraying",
+    "fidan": "Sapling",
+    "sulama": "Irrigation",
+    "custom": "Custom"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "expo": {
+    "name": "SONAR Farm ROI Tracker",
+    "slug": "sonar-farm-roi-tracker",
+    "version": "1.0.0",
+    "scheme": "sonar",
+    "orientation": "portrait",
+    "icon": "./assets/sonaryenilogo-round.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/sonaryenilogo-round.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F2B45"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sonar.farmroitracker",
+      "supportsTablet": false,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Weather data and regional theme",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Background weather checks and proactive farming alerts",
+        "NSUserTrackingUsageDescription": "Non-personalized ads only"
+      }
+    },
+    "android": {
+      "package": "com.sonar.farmroitracker",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/sonaryenilogo-round.png",
+        "backgroundColor": "#0F2B45"
+      },
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "POST_NOTIFICATIONS"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-localization",
+      "expo-notifications",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Weather data and regional theme",
+          "locationAlwaysAndWhenInUsePermission": "Background weather checks and proactive farming alerts",
+          "isIosBackgroundLocationEnabled": true,
+          "isAndroidBackgroundLocationEnabled": true
+        }
+      ],
+      "expo-tracking-transparency",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "_comment": "REPLACE with your real AdMob App IDs from admob.google.com before release",
+          "androidAppId": "ca-app-pub-REPLACE_WITH_YOUR_ANDROID_APP_ID",
+          "iosAppId": "ca-app-pub-REPLACE_WITH_YOUR_IOS_APP_ID"
+        }
+      ]
+    ]
+  }
+}
