@@ -33,7 +33,7 @@ jobs:
           DATASETS_REPO: ${{ vars.DATASETS_REPO }}
         run: |
           normalize_repo() {
-            echo "$1" | tr '[:upper:]' '[:lower:]' | sed 's/\.git$//' | sed 's:/*$::'
+            echo "$1" | tr -d '\r' | xargs | tr '[:upper:]' '[:lower:]' | sed 's/\.git$//' | sed 's:/*$::'
           }
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -60,7 +60,7 @@ jobs:
           DATASETS_REPO: ${{ vars.DATASETS_REPO }}
         run: |
           normalize_repo() {
-            echo "$1" | tr '[:upper:]' '[:lower:]' | sed 's/\.git$//' | sed 's:/*$::'
+            echo "$1" | tr -d '\r' | xargs | tr '[:upper:]' '[:lower:]' | sed 's/\.git$//' | sed 's:/*$::'
           }
           APP_N=$(normalize_repo "$GITHUB_REPOSITORY")
           DS_N=$(normalize_repo "${DATASETS_REPO:-}")
