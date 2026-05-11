@@ -1,15 +1,15 @@
 {
   "dayKey": "2026-05-11",
-  "generatedAt": "2026-05-11T13:25:18.631Z",
+  "generatedAt": "2026-05-11T15:14:21.290Z",
   "source": "Open-Meteo daily shared snapshot",
   "regions": {
     "TR-istanbul": {
       "locationName": "Istanbul",
-      "temperatureC": 23,
-      "humidity": 55,
-      "windKmh": 8,
+      "temperatureC": 22,
+      "humidity": 59,
+      "windKmh": 7,
       "precipitationChance": 0,
-      "updatedAt": "2026-05-11T13:25:15.668Z",
+      "updatedAt": "2026-05-11T15:14:18.556Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
@@ -195,11 +195,11 @@
     },
     "TR-ankara": {
       "locationName": "Ankara",
-      "temperatureC": 22,
-      "humidity": 46,
+      "temperatureC": 19,
+      "humidity": 58,
       "windKmh": 13,
-      "precipitationChance": 16,
-      "updatedAt": "2026-05-11T13:25:15.981Z",
+      "precipitationChance": 18,
+      "updatedAt": "2026-05-11T15:14:18.843Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
@@ -385,11 +385,11 @@
     },
     "TR-izmir": {
       "locationName": "Izmir",
-      "temperatureC": 29,
-      "humidity": 38,
-      "windKmh": 9,
+      "temperatureC": 28,
+      "humidity": 36,
+      "windKmh": 11,
       "precipitationChance": 0,
-      "updatedAt": "2026-05-11T13:25:16.292Z",
+      "updatedAt": "2026-05-11T15:14:19.130Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
@@ -575,11 +575,11 @@
     },
     "US-california": {
       "locationName": "California",
-      "temperatureC": 20,
-      "humidity": 70,
+      "temperatureC": 25,
+      "humidity": 54,
       "windKmh": 7,
       "precipitationChance": 0,
-      "updatedAt": "2026-05-11T13:25:16.603Z",
+      "updatedAt": "2026-05-11T15:14:19.415Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
@@ -589,7 +589,7 @@
         },
         {
           "date": "2026-05-12",
-          "tempMinC": 19,
+          "tempMinC": 21,
           "tempMaxC": 37,
           "precipitationChance": 1
         },
@@ -645,7 +645,7 @@
           "date": "2026-05-21",
           "tempMinC": 6,
           "tempMaxC": 23,
-          "precipitationChance": 3
+          "precipitationChance": 2
         },
         {
           "date": "2026-05-22",
@@ -687,7 +687,7 @@
           "date": "2026-05-28",
           "tempMinC": 6.3,
           "tempMaxC": 23.3,
-          "precipitationChance": 4
+          "precipitationChance": 3
         },
         {
           "date": "2026-05-29",
@@ -729,7 +729,7 @@
           "date": "2026-06-04",
           "tempMinC": 5.9,
           "tempMaxC": 22.9,
-          "precipitationChance": 5
+          "precipitationChance": 4
         },
         {
           "date": "2026-06-05",
@@ -765,11 +765,11 @@
     },
     "US-iowa": {
       "locationName": "Iowa",
-      "temperatureC": 8,
-      "humidity": 50,
-      "windKmh": 4,
+      "temperatureC": 14,
+      "humidity": 36,
+      "windKmh": 2,
       "precipitationChance": 0,
-      "updatedAt": "2026-05-11T13:25:16.913Z",
+      "updatedAt": "2026-05-11T15:14:19.701Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
@@ -779,13 +779,13 @@
         },
         {
           "date": "2026-05-12",
-          "tempMinC": 14,
+          "tempMinC": 13,
           "tempMaxC": 26,
           "precipitationChance": 18
         },
         {
           "date": "2026-05-13",
-          "tempMinC": 11,
+          "tempMinC": 10,
           "tempMaxC": 22,
           "precipitationChance": 0
         },
@@ -955,11 +955,11 @@
     },
     "BR-sao-paulo": {
       "locationName": "Sao Paulo",
-      "temperatureC": 13,
-      "humidity": 66,
+      "temperatureC": 16,
+      "humidity": 55,
       "windKmh": 3,
       "precipitationChance": 0,
-      "updatedAt": "2026-05-11T13:25:17.225Z",
+      "updatedAt": "2026-05-11T15:14:19.986Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
@@ -1145,11 +1145,11 @@
     },
     "IN-punjab": {
       "locationName": "Punjab",
-      "temperatureC": 27,
-      "humidity": 69,
-      "windKmh": 3,
-      "precipitationChance": 1,
-      "updatedAt": "2026-05-11T13:25:17.536Z",
+      "temperatureC": 25,
+      "humidity": 80,
+      "windKmh": 4,
+      "precipitationChance": 0,
+      "updatedAt": "2026-05-11T15:14:20.273Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
@@ -1335,11 +1335,11 @@
     },
     "ES-andalusia": {
       "locationName": "Andalusia",
-      "temperatureC": 23,
-      "humidity": 33,
+      "temperatureC": 24,
+      "humidity": 31,
       "windKmh": 15,
       "precipitationChance": 0,
-      "updatedAt": "2026-05-11T13:25:17.848Z",
+      "updatedAt": "2026-05-11T15:14:20.559Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
@@ -1526,10 +1526,10 @@
     "FR-occitanie": {
       "locationName": "Occitanie",
       "temperatureC": 23,
-      "humidity": 38,
-      "windKmh": 18,
+      "humidity": 36,
+      "windKmh": 17,
       "precipitationChance": 0,
-      "updatedAt": "2026-05-11T13:25:18.158Z",
+      "updatedAt": "2026-05-11T15:14:20.844Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
@@ -1540,7 +1540,7 @@
         {
           "date": "2026-05-12",
           "tempMinC": 14,
-          "tempMaxC": 21,
+          "tempMaxC": 22,
           "precipitationChance": 8
         },
         {
@@ -1716,10 +1716,10 @@
     "DE-bavaria": {
       "locationName": "Bavaria",
       "temperatureC": 15,
-      "humidity": 68,
-      "windKmh": 29,
-      "precipitationChance": 84,
-      "updatedAt": "2026-05-11T13:25:18.470Z",
+      "humidity": 75,
+      "windKmh": 11,
+      "precipitationChance": 95,
+      "updatedAt": "2026-05-11T15:14:21.130Z",
       "forecast30d": [
         {
           "date": "2026-05-11",
