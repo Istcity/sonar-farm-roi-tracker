@@ -39,11 +39,14 @@ jobs:
           fi
 
       - name: Sync to external datasets repo (optional)
-        if: ${{ secrets.DATASETS_REPO_TOKEN != '' }}
         env:
           DATASETS_REPO_TOKEN: ${{ secrets.DATASETS_REPO_TOKEN }}
           DATASETS_REPO: ${{ vars.DATASETS_REPO }}
         run: |
+          if [ -z "$DATASETS_REPO_TOKEN" ]; then
+            echo "DATASETS_REPO_TOKEN is missing; skipping external sync."
+            exit 0
+          fi
           if [ -z "$DATASETS_REPO" ]; then
             echo "DATASETS_REPO repo variable missing. Expected owner/repo."
             exit 0
