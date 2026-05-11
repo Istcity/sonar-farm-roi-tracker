@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout app repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -27,15 +29,29 @@ jobs:
         run: npm run weather:daily:generate
 
       - name: Commit generated file to app repo
+        env:
+          DATASETS_REPO: ${{ vars.DATASETS_REPO }}
         run: |
+          normalize_repo() {
+            echo "$1" | tr -d '\r' | xargs | tr '[:upper:]' '[:lower:]' | sed 's/\.git$//' | sed 's:/*$::'
+          }
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/weather-daily.json
+          APP_N=$(normalize_repo "$GITHUB_REPOSITORY")
+          DS_N=$(normalize_repo "${DATASETS_REPO:-}")
+          if [ -n "$DS_N" ] && [ "$DS_N" = "$APP_N" ]; then
+            cp public/weather-daily.json weather-daily.json
+            git add weather-daily.json
+            echo "DATASETS_REPO matches this repo; will commit root weather-daily.json here (no PAT clone)."
+          fi
           if git diff --cached --quiet; then
-            echo "No changes in public/weather-daily.json"
+            echo "No changes in weather snapshot files"
           else
             git commit -m "chore(weather): refresh shared daily snapshot"
-            git push
+            git fetch origin "$GITHUB_REF_NAME"
+            git rebase "origin/$GITHUB_REF_NAME"
+            git push origin "$GITHUB_REF_NAME"
           fi
 
       - name: Sync to external datasets repo (optional)
@@ -43,6 +59,15 @@ jobs:
           DATASETS_REPO_TOKEN: ${{ secrets.DATASETS_REPO_TOKEN }}
           DATASETS_REPO: ${{ vars.DATASETS_REPO }}
         run: |
+          normalize_repo() {
+            echo "$1" | tr -d '\r' | xargs | tr '[:upper:]' '[:lower:]' | sed 's/\.git$//' | sed 's:/*$::'
+          }
+          APP_N=$(normalize_repo "$GITHUB_REPOSITORY")
+          DS_N=$(normalize_repo "${DATASETS_REPO:-}")
+          if [ -n "$DS_N" ] && [ "$DS_N" = "$APP_N" ]; then
+            echo "DATASETS_REPO is the same as this repository; skipping PAT-based clone/push (already committed above)."
+            exit 0
+          fi
           if [ -z "$DATASETS_REPO_TOKEN" ]; then
             echo "DATASETS_REPO_TOKEN is missing; skipping external sync."
             exit 0
@@ -52,7 +77,6 @@ jobs:
             exit 0
           fi
           git clone "https://x-access-token:${DATASETS_REPO_TOKEN}@github.com/${DATASETS_REPO}.git" datasets-repo
-          mkdir -p datasets-repo
           cp public/weather-daily.json datasets-repo/weather-daily.json
           cd datasets-repo
           git config user.name "github-actions[bot]"
@@ -62,6 +86,9 @@ jobs:
             echo "No changes for datasets repo"
           else
             git commit -m "chore(weather): refresh daily shared snapshot"
+            git fetch origin
+            BR=$(git rev-parse --abbrev-ref HEAD)
+            git rebase "origin/$BR"
             git push
           fi
           
