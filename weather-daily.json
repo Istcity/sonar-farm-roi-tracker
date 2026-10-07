@@ -1,782 +1,776 @@
 {
-  "dayKey": "2026-10-06",
-  "generatedAt": "2026-10-06T10:16:53.419Z",
+  "dayKey": "2026-10-07",
+  "generatedAt": "2026-10-07T10:15:20.412Z",
   "source": "Open-Meteo daily shared snapshot",
   "regions": {
     "TR-istanbul": {
       "locationName": "Istanbul",
-      "temperatureC": 20,
-      "humidity": 62,
-      "windKmh": 17,
+      "temperatureC": 22,
+      "humidity": 54,
+      "windKmh": 11,
       "precipitationChance": 0,
-      "updatedAt": "2026-10-06T10:16:50.681Z",
+      "updatedAt": "2026-10-07T10:15:17.129Z",
       "forecast30d": [
         {
-          "date": "2026-10-06",
-          "tempMinC": 14,
-          "tempMaxC": 21,
-          "precipitationChance": 0
-        },
-        {
           "date": "2026-10-07",
-          "tempMinC": 14,
-          "tempMaxC": 23,
+          "tempMinC": 13,
+          "tempMaxC": 22,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-08",
-          "tempMinC": 13,
-          "tempMaxC": 20,
+          "tempMinC": 12,
+          "tempMaxC": 21,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-09",
-          "tempMinC": 16,
+          "tempMinC": 15,
           "tempMaxC": 23,
-          "precipitationChance": 3
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-10",
-          "tempMinC": 17,
-          "tempMaxC": 24,
-          "precipitationChance": 10
+          "tempMinC": 16,
+          "tempMaxC": 25,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-11",
-          "tempMinC": 18,
-          "tempMaxC": 24,
-          "precipitationChance": 10
+          "tempMinC": 15,
+          "tempMaxC": 25,
+          "precipitationChance": 8
         },
         {
           "date": "2026-10-12",
           "tempMinC": 17,
-          "tempMaxC": 23,
-          "precipitationChance": 6
+          "tempMaxC": 25,
+          "precipitationChance": 18
         },
         {
           "date": "2026-10-13",
-          "tempMinC": 15,
-          "tempMaxC": 22,
-          "precipitationChance": 11
+          "tempMinC": 16,
+          "tempMaxC": 20,
+          "precipitationChance": 46
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 13,
-          "tempMaxC": 14,
-          "precipitationChance": 14
+          "tempMinC": 17,
+          "tempMaxC": 22,
+          "precipitationChance": 53
         },
         {
           "date": "2026-10-15",
-          "tempMinC": 12,
-          "tempMaxC": 15,
-          "precipitationChance": 27
+          "tempMinC": 14,
+          "tempMaxC": 17,
+          "precipitationChance": 39
         },
         {
           "date": "2026-10-16",
-          "tempMinC": 13,
-          "tempMaxC": 16,
-          "precipitationChance": 20
+          "tempMinC": 14,
+          "tempMaxC": 17,
+          "precipitationChance": 35
         },
         {
           "date": "2026-10-17",
-          "tempMinC": 14,
-          "tempMaxC": 18,
-          "precipitationChance": 17
-        },
-        {
-          "date": "2026-10-18",
-          "tempMinC": 13,
-          "tempMaxC": 19,
-          "precipitationChance": 16
-        },
-        {
-          "date": "2026-10-19",
-          "tempMinC": 14,
-          "tempMaxC": 21,
-          "precipitationChance": 18
-        },
-        {
-          "date": "2026-10-20",
-          "tempMinC": 14,
-          "tempMaxC": 22,
-          "precipitationChance": 13
-        },
-        {
-          "date": "2026-10-21",
           "tempMinC": 15,
-          "tempMaxC": 25,
-          "precipitationChance": 10
-        },
-        {
-          "date": "2026-10-22",
-          "tempMinC": 12.2,
-          "tempMaxC": 15.2,
-          "precipitationChance": 28
-        },
-        {
-          "date": "2026-10-23",
-          "tempMinC": 13.3,
-          "tempMaxC": 16.3,
-          "precipitationChance": 21
-        },
-        {
-          "date": "2026-10-24",
-          "tempMinC": 13.6,
-          "tempMaxC": 17.6,
-          "precipitationChance": 18
-        },
-        {
-          "date": "2026-10-25",
-          "tempMinC": 12.7,
-          "tempMaxC": 18.7,
-          "precipitationChance": 17
-        },
-        {
-          "date": "2026-10-26",
-          "tempMinC": 13.9,
-          "tempMaxC": 20.9,
-          "precipitationChance": 19
-        },
-        {
-          "date": "2026-10-27",
-          "tempMinC": 14,
-          "tempMaxC": 22,
-          "precipitationChance": 14
-        },
-        {
-          "date": "2026-10-28",
-          "tempMinC": 15.2,
-          "tempMaxC": 25.2,
-          "precipitationChance": 11
-        },
-        {
-          "date": "2026-10-29",
-          "tempMinC": 12.5,
-          "tempMaxC": 15.5,
-          "precipitationChance": 29
-        },
-        {
-          "date": "2026-10-30",
-          "tempMinC": 12.9,
-          "tempMaxC": 15.9,
+          "tempMaxC": 20,
           "precipitationChance": 22
         },
         {
+          "date": "2026-10-18",
+          "tempMinC": 12,
+          "tempMaxC": 19,
+          "precipitationChance": 24
+        },
+        {
+          "date": "2026-10-19",
+          "tempMinC": 11,
+          "tempMaxC": 14,
+          "precipitationChance": 24
+        },
+        {
+          "date": "2026-10-20",
+          "tempMinC": 9,
+          "tempMaxC": 15,
+          "precipitationChance": 31
+        },
+        {
+          "date": "2026-10-21",
+          "tempMinC": 7,
+          "tempMaxC": 14,
+          "precipitationChance": 23
+        },
+        {
+          "date": "2026-10-22",
+          "tempMinC": 7,
+          "tempMaxC": 23,
+          "precipitationChance": 16
+        },
+        {
+          "date": "2026-10-23",
+          "tempMinC": 14.2,
+          "tempMaxC": 17.2,
+          "precipitationChance": 36
+        },
+        {
+          "date": "2026-10-24",
+          "tempMinC": 15.3,
+          "tempMaxC": 20.3,
+          "precipitationChance": 23
+        },
+        {
+          "date": "2026-10-25",
+          "tempMinC": 11.6,
+          "tempMaxC": 18.6,
+          "precipitationChance": 25
+        },
+        {
+          "date": "2026-10-26",
+          "tempMinC": 10.7,
+          "tempMaxC": 13.7,
+          "precipitationChance": 25
+        },
+        {
+          "date": "2026-10-27",
+          "tempMinC": 8.9,
+          "tempMaxC": 14.9,
+          "precipitationChance": 32
+        },
+        {
+          "date": "2026-10-28",
+          "tempMinC": 7,
+          "tempMaxC": 14,
+          "precipitationChance": 24
+        },
+        {
+          "date": "2026-10-29",
+          "tempMinC": 7.2,
+          "tempMaxC": 23.2,
+          "precipitationChance": 17
+        },
+        {
+          "date": "2026-10-30",
+          "tempMinC": 14.5,
+          "tempMaxC": 17.5,
+          "precipitationChance": 37
+        },
+        {
           "date": "2026-10-31",
-          "tempMinC": 13.3,
-          "tempMaxC": 17.3,
-          "precipitationChance": 19
+          "tempMinC": 14.9,
+          "tempMaxC": 19.9,
+          "precipitationChance": 24
         },
         {
           "date": "2026-11-01",
-          "tempMinC": 12.5,
-          "tempMaxC": 18.6,
-          "precipitationChance": 18
+          "tempMinC": 11.3,
+          "tempMaxC": 18.3,
+          "precipitationChance": 26
         },
         {
           "date": "2026-11-02",
-          "tempMinC": 13.9,
-          "tempMaxC": 20.9,
-          "precipitationChance": 20
+          "tempMinC": 10.5,
+          "tempMaxC": 13.6,
+          "precipitationChance": 26
         },
         {
           "date": "2026-11-03",
-          "tempMinC": 14.2,
-          "tempMaxC": 22.2,
-          "precipitationChance": 15
+          "tempMinC": 8.9,
+          "tempMaxC": 14.9,
+          "precipitationChance": 33
         },
         {
           "date": "2026-11-04",
-          "tempMinC": 15.5,
-          "tempMaxC": 25.5,
-          "precipitationChance": 12
+          "tempMinC": 7.2,
+          "tempMaxC": 14.2,
+          "precipitationChance": 25
+        },
+        {
+          "date": "2026-11-05",
+          "tempMinC": 7.5,
+          "tempMaxC": 23.5,
+          "precipitationChance": 18
         }
       ]
     },
     "TR-ankara": {
       "locationName": "Ankara",
-      "temperatureC": 20,
-      "humidity": 39,
-      "windKmh": 4,
+      "temperatureC": 19,
+      "humidity": 43,
+      "windKmh": 6,
       "precipitationChance": 0,
-      "updatedAt": "2026-10-06T10:16:50.967Z",
+      "updatedAt": "2026-10-07T10:15:17.476Z",
       "forecast30d": [
         {
-          "date": "2026-10-06",
-          "tempMinC": 7,
-          "tempMaxC": 21,
-          "precipitationChance": 23
-        },
-        {
           "date": "2026-10-07",
-          "tempMinC": 11,
+          "tempMinC": 8,
           "tempMaxC": 21,
-          "precipitationChance": 5
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-08",
           "tempMinC": 9,
-          "tempMaxC": 22,
-          "precipitationChance": 30
+          "tempMaxC": 21,
+          "precipitationChance": 23
         },
         {
           "date": "2026-10-09",
-          "tempMinC": 9,
+          "tempMinC": 8,
           "tempMaxC": 23,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-10",
-          "tempMinC": 7,
+          "tempMinC": 6,
           "tempMaxC": 24,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-11",
           "tempMinC": 8,
-          "tempMaxC": 24,
+          "tempMaxC": 25,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-12",
-          "tempMinC": 14,
-          "tempMaxC": 23,
-          "precipitationChance": 2
+          "tempMinC": 12,
+          "tempMaxC": 25,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-13",
-          "tempMinC": 14,
-          "tempMaxC": 23,
-          "precipitationChance": 10
+          "tempMinC": 12,
+          "tempMaxC": 24,
+          "precipitationChance": 21
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 11,
-          "tempMaxC": 13,
-          "precipitationChance": 15
+          "tempMinC": 14,
+          "tempMaxC": 25,
+          "precipitationChance": 33
         },
         {
           "date": "2026-10-15",
-          "tempMinC": 9,
-          "tempMaxC": 12,
-          "precipitationChance": 18
+          "tempMinC": 12,
+          "tempMaxC": 17,
+          "precipitationChance": 39
         },
         {
           "date": "2026-10-16",
-          "tempMinC": 9,
-          "tempMaxC": 17,
-          "precipitationChance": 18
+          "tempMinC": 11,
+          "tempMaxC": 18,
+          "precipitationChance": 35
         },
         {
           "date": "2026-10-17",
-          "tempMinC": 8,
-          "tempMaxC": 14,
-          "precipitationChance": 20
+          "tempMinC": 10,
+          "tempMaxC": 18,
+          "precipitationChance": 17
         },
         {
           "date": "2026-10-18",
-          "tempMinC": 8,
+          "tempMinC": 10,
           "tempMaxC": 15,
-          "precipitationChance": 14
+          "precipitationChance": 21
         },
         {
           "date": "2026-10-19",
-          "tempMinC": 8,
-          "tempMaxC": 19,
-          "precipitationChance": 14
+          "tempMinC": 10,
+          "tempMaxC": 15,
+          "precipitationChance": 15
         },
         {
           "date": "2026-10-20",
-          "tempMinC": 8,
-          "tempMaxC": 20,
+          "tempMinC": 6,
+          "tempMaxC": 11,
           "precipitationChance": 14
         },
         {
           "date": "2026-10-21",
-          "tempMinC": 10,
-          "tempMaxC": 24,
-          "precipitationChance": 14
+          "tempMinC": 4,
+          "tempMaxC": 9,
+          "precipitationChance": 12
         },
         {
           "date": "2026-10-22",
-          "tempMinC": 9.2,
-          "tempMaxC": 12.2,
-          "precipitationChance": 19
+          "tempMinC": 4,
+          "tempMaxC": 23,
+          "precipitationChance": 13
         },
         {
           "date": "2026-10-23",
-          "tempMinC": 9.3,
-          "tempMaxC": 17.3,
-          "precipitationChance": 19
+          "tempMinC": 11.2,
+          "tempMaxC": 18.2,
+          "precipitationChance": 36
         },
         {
           "date": "2026-10-24",
-          "tempMinC": 7.6,
-          "tempMaxC": 13.6,
-          "precipitationChance": 21
+          "tempMinC": 10.3,
+          "tempMaxC": 18.3,
+          "precipitationChance": 18
         },
         {
           "date": "2026-10-25",
-          "tempMinC": 7.7,
-          "tempMaxC": 14.7,
-          "precipitationChance": 15
+          "tempMinC": 9.6,
+          "tempMaxC": 14.6,
+          "precipitationChance": 22
         },
         {
           "date": "2026-10-26",
-          "tempMinC": 7.9,
-          "tempMaxC": 18.9,
-          "precipitationChance": 15
+          "tempMinC": 9.7,
+          "tempMaxC": 14.7,
+          "precipitationChance": 16
         },
         {
           "date": "2026-10-27",
-          "tempMinC": 8,
-          "tempMaxC": 20,
+          "tempMinC": 5.9,
+          "tempMaxC": 10.9,
           "precipitationChance": 15
         },
         {
           "date": "2026-10-28",
-          "tempMinC": 10.2,
-          "tempMaxC": 24.2,
-          "precipitationChance": 15
+          "tempMinC": 4,
+          "tempMaxC": 9,
+          "precipitationChance": 13
         },
         {
           "date": "2026-10-29",
-          "tempMinC": 9.5,
-          "tempMaxC": 12.5,
-          "precipitationChance": 20
+          "tempMinC": 4.2,
+          "tempMaxC": 23.2,
+          "precipitationChance": 14
         },
         {
           "date": "2026-10-30",
-          "tempMinC": 8.9,
-          "tempMaxC": 16.9,
-          "precipitationChance": 20
+          "tempMinC": 11.5,
+          "tempMaxC": 18.5,
+          "precipitationChance": 37
         },
         {
           "date": "2026-10-31",
-          "tempMinC": 7.3,
-          "tempMaxC": 13.3,
-          "precipitationChance": 22
+          "tempMinC": 9.9,
+          "tempMaxC": 17.9,
+          "precipitationChance": 19
         },
         {
           "date": "2026-11-01",
-          "tempMinC": 7.6,
-          "tempMaxC": 14.6,
-          "precipitationChance": 16
+          "tempMinC": 9.3,
+          "tempMaxC": 14.3,
+          "precipitationChance": 23
         },
         {
           "date": "2026-11-02",
-          "tempMinC": 7.9,
-          "tempMaxC": 18.9,
-          "precipitationChance": 16
+          "tempMinC": 9.5,
+          "tempMaxC": 14.6,
+          "precipitationChance": 17
         },
         {
           "date": "2026-11-03",
-          "tempMinC": 8.2,
-          "tempMaxC": 20.2,
+          "tempMinC": 5.9,
+          "tempMaxC": 10.9,
           "precipitationChance": 16
         },
         {
           "date": "2026-11-04",
-          "tempMinC": 10.5,
-          "tempMaxC": 24.5,
-          "precipitationChance": 16
+          "tempMinC": 4.2,
+          "tempMaxC": 9.2,
+          "precipitationChance": 14
+        },
+        {
+          "date": "2026-11-05",
+          "tempMinC": 4.5,
+          "tempMaxC": 23.5,
+          "precipitationChance": 15
         }
       ]
     },
     "TR-izmir": {
       "locationName": "Izmir",
-      "temperatureC": 25,
-      "humidity": 34,
-      "windKmh": 9,
+      "temperatureC": 24,
+      "humidity": 44,
+      "windKmh": 11,
       "precipitationChance": 0,
-      "updatedAt": "2026-10-06T10:16:51.253Z",
+      "updatedAt": "2026-10-07T10:15:17.824Z",
       "forecast30d": [
         {
-          "date": "2026-10-06",
-          "tempMinC": 13,
-          "tempMaxC": 27,
-          "precipitationChance": 0
-        },
-        {
           "date": "2026-10-07",
-          "tempMinC": 14,
+          "tempMinC": 13,
           "tempMaxC": 25,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-08",
-          "tempMinC": 13,
+          "tempMinC": 11,
           "tempMaxC": 26,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-09",
-          "tempMinC": 14,
+          "tempMinC": 10,
           "tempMaxC": 27,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-10",
-          "tempMinC": 14,
+          "tempMinC": 12,
           "tempMaxC": 29,
-          "precipitationChance": 3
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-11",
-          "tempMinC": 14,
-          "tempMaxC": 23,
-          "precipitationChance": 8
+          "tempMinC": 13,
+          "tempMaxC": 28,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-12",
-          "tempMinC": 18,
+          "tempMinC": 15,
           "tempMaxC": 25,
-          "precipitationChance": 4
+          "precipitationChance": 15
         },
         {
           "date": "2026-10-13",
           "tempMinC": 17,
-          "tempMaxC": 26,
-          "precipitationChance": 12
+          "tempMaxC": 23,
+          "precipitationChance": 44
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 14,
-          "tempMaxC": 18,
-          "precipitationChance": 15
+          "tempMinC": 15,
+          "tempMaxC": 23,
+          "precipitationChance": 49
         },
         {
           "date": "2026-10-15",
-          "tempMinC": 13,
-          "tempMaxC": 20,
-          "precipitationChance": 10
+          "tempMinC": 14,
+          "tempMaxC": 19,
+          "precipitationChance": 24
         },
         {
           "date": "2026-10-16",
-          "tempMinC": 13,
+          "tempMinC": 14,
           "tempMaxC": 21,
-          "precipitationChance": 17
+          "precipitationChance": 21
         },
         {
           "date": "2026-10-17",
           "tempMinC": 14,
-          "tempMaxC": 23,
-          "precipitationChance": 21
+          "tempMaxC": 24,
+          "precipitationChance": 18
         },
         {
           "date": "2026-10-18",
           "tempMinC": 15,
-          "tempMaxC": 25,
-          "precipitationChance": 22
-        },
-        {
-          "date": "2026-10-19",
-          "tempMinC": 15,
-          "tempMaxC": 25,
-          "precipitationChance": 11
-        },
-        {
-          "date": "2026-10-20",
-          "tempMinC": 18,
-          "tempMaxC": 26,
-          "precipitationChance": 13
-        },
-        {
-          "date": "2026-10-21",
-          "tempMinC": 19,
-          "tempMaxC": 27,
-          "precipitationChance": 3
-        },
-        {
-          "date": "2026-10-22",
-          "tempMinC": 13.2,
-          "tempMaxC": 20.2,
-          "precipitationChance": 11
-        },
-        {
-          "date": "2026-10-23",
-          "tempMinC": 13.3,
-          "tempMaxC": 21.3,
-          "precipitationChance": 18
-        },
-        {
-          "date": "2026-10-24",
-          "tempMinC": 13.6,
-          "tempMaxC": 22.6,
-          "precipitationChance": 22
-        },
-        {
-          "date": "2026-10-25",
-          "tempMinC": 14.7,
-          "tempMaxC": 24.7,
-          "precipitationChance": 23
-        },
-        {
-          "date": "2026-10-26",
-          "tempMinC": 14.9,
-          "tempMaxC": 24.9,
-          "precipitationChance": 12
-        },
-        {
-          "date": "2026-10-27",
-          "tempMinC": 18,
-          "tempMaxC": 26,
-          "precipitationChance": 14
-        },
-        {
-          "date": "2026-10-28",
-          "tempMinC": 19.2,
-          "tempMaxC": 27.2,
-          "precipitationChance": 4
-        },
-        {
-          "date": "2026-10-29",
-          "tempMinC": 13.5,
-          "tempMaxC": 20.5,
-          "precipitationChance": 12
-        },
-        {
-          "date": "2026-10-30",
-          "tempMinC": 12.9,
-          "tempMaxC": 20.9,
-          "precipitationChance": 19
-        },
-        {
-          "date": "2026-10-31",
-          "tempMinC": 13.3,
-          "tempMaxC": 22.3,
-          "precipitationChance": 23
-        },
-        {
-          "date": "2026-11-01",
-          "tempMinC": 14.6,
-          "tempMaxC": 24.6,
+          "tempMaxC": 19,
           "precipitationChance": 24
         },
         {
-          "date": "2026-11-02",
-          "tempMinC": 14.9,
-          "tempMaxC": 24.9,
+          "date": "2026-10-19",
+          "tempMinC": 12,
+          "tempMaxC": 15,
+          "precipitationChance": 24
+        },
+        {
+          "date": "2026-10-20",
+          "tempMinC": 11,
+          "tempMaxC": 16,
+          "precipitationChance": 18
+        },
+        {
+          "date": "2026-10-21",
+          "tempMinC": 10,
+          "tempMaxC": 17,
           "precipitationChance": 13
         },
         {
+          "date": "2026-10-22",
+          "tempMinC": 10,
+          "tempMaxC": 29,
+          "precipitationChance": 8
+        },
+        {
+          "date": "2026-10-23",
+          "tempMinC": 14.2,
+          "tempMaxC": 21.2,
+          "precipitationChance": 22
+        },
+        {
+          "date": "2026-10-24",
+          "tempMinC": 14.3,
+          "tempMaxC": 24.3,
+          "precipitationChance": 19
+        },
+        {
+          "date": "2026-10-25",
+          "tempMinC": 14.6,
+          "tempMaxC": 18.6,
+          "precipitationChance": 25
+        },
+        {
+          "date": "2026-10-26",
+          "tempMinC": 11.7,
+          "tempMaxC": 14.7,
+          "precipitationChance": 25
+        },
+        {
+          "date": "2026-10-27",
+          "tempMinC": 10.9,
+          "tempMaxC": 15.9,
+          "precipitationChance": 19
+        },
+        {
+          "date": "2026-10-28",
+          "tempMinC": 10,
+          "tempMaxC": 17,
+          "precipitationChance": 14
+        },
+        {
+          "date": "2026-10-29",
+          "tempMinC": 10.2,
+          "tempMaxC": 29.2,
+          "precipitationChance": 9
+        },
+        {
+          "date": "2026-10-30",
+          "tempMinC": 14.5,
+          "tempMaxC": 21.5,
+          "precipitationChance": 23
+        },
+        {
+          "date": "2026-10-31",
+          "tempMinC": 13.9,
+          "tempMaxC": 23.9,
+          "precipitationChance": 20
+        },
+        {
+          "date": "2026-11-01",
+          "tempMinC": 14.3,
+          "tempMaxC": 18.3,
+          "precipitationChance": 26
+        },
+        {
+          "date": "2026-11-02",
+          "tempMinC": 11.5,
+          "tempMaxC": 14.6,
+          "precipitationChance": 26
+        },
+        {
           "date": "2026-11-03",
-          "tempMinC": 18.2,
-          "tempMaxC": 26.2,
-          "precipitationChance": 15
+          "tempMinC": 10.9,
+          "tempMaxC": 15.9,
+          "precipitationChance": 20
         },
         {
           "date": "2026-11-04",
-          "tempMinC": 19.5,
-          "tempMaxC": 27.5,
-          "precipitationChance": 5
+          "tempMinC": 10.2,
+          "tempMaxC": 17.2,
+          "precipitationChance": 15
+        },
+        {
+          "date": "2026-11-05",
+          "tempMinC": 10.5,
+          "tempMaxC": 29.5,
+          "precipitationChance": 10
         }
       ]
     },
     "US-california": {
       "locationName": "California",
-      "temperatureC": 27,
-      "humidity": 24,
-      "windKmh": 11,
+      "temperatureC": 26,
+      "humidity": 31,
+      "windKmh": 6,
       "precipitationChance": 0,
-      "updatedAt": "2026-10-06T10:16:51.539Z",
+      "updatedAt": "2026-10-07T10:15:18.169Z",
       "forecast30d": [
         {
-          "date": "2026-10-06",
-          "tempMinC": 24,
-          "tempMaxC": 37,
+          "date": "2026-10-07",
+          "tempMinC": 23,
+          "tempMaxC": 38,
           "precipitationChance": 1
         },
         {
-          "date": "2026-10-07",
-          "tempMinC": 24,
-          "tempMaxC": 38,
-          "precipitationChance": 0
-        },
-        {
           "date": "2026-10-08",
-          "tempMinC": 19,
-          "tempMaxC": 39,
+          "tempMinC": 23,
+          "tempMaxC": 37,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-09",
           "tempMinC": 19,
           "tempMaxC": 38,
-          "precipitationChance": 1
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-10",
-          "tempMinC": 17,
-          "tempMaxC": 35,
-          "precipitationChance": 1
+          "tempMinC": 15,
+          "tempMaxC": 34,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-11",
-          "tempMinC": 9,
-          "tempMaxC": 29,
-          "precipitationChance": 6
+          "tempMinC": 13,
+          "tempMaxC": 22,
+          "precipitationChance": 24
         },
         {
           "date": "2026-10-12",
-          "tempMinC": 6,
-          "tempMaxC": 22,
-          "precipitationChance": 9
+          "tempMinC": 15,
+          "tempMaxC": 19,
+          "precipitationChance": 24
         },
         {
           "date": "2026-10-13",
-          "tempMinC": 6,
+          "tempMinC": 12,
           "tempMaxC": 23,
-          "precipitationChance": 6
+          "precipitationChance": 10
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 10,
+          "tempMinC": 13,
           "tempMaxC": 26,
-          "precipitationChance": 1
+          "precipitationChance": 2
         },
         {
           "date": "2026-10-15",
-          "tempMinC": 11,
-          "tempMaxC": 30,
+          "tempMinC": 15,
+          "tempMaxC": 28,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-16",
-          "tempMinC": 14,
-          "tempMaxC": 33,
-          "precipitationChance": 1
+          "tempMinC": 16,
+          "tempMaxC": 31,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-17",
-          "tempMinC": 14,
-          "tempMaxC": 33,
+          "tempMinC": 17,
+          "tempMaxC": 32,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-18",
-          "tempMinC": 15,
-          "tempMaxC": 33,
+          "tempMinC": 17,
+          "tempMaxC": 32,
           "precipitationChance": 3
         },
         {
           "date": "2026-10-19",
-          "tempMinC": 15,
-          "tempMaxC": 34,
-          "precipitationChance": 3
+          "tempMinC": 16,
+          "tempMaxC": 30,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-20",
           "tempMinC": 14,
-          "tempMaxC": 34,
-          "precipitationChance": 3
+          "tempMaxC": 29,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-21",
-          "tempMinC": 0,
-          "tempMaxC": 0,
-          "precipitationChance": 6
+          "tempMinC": 16,
+          "tempMaxC": 27,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-22",
-          "tempMinC": 11.2,
-          "tempMaxC": 30.2,
-          "precipitationChance": 1
+          "tempMinC": 0,
+          "tempMaxC": 0,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-23",
-          "tempMinC": 14.3,
-          "tempMaxC": 33.3,
-          "precipitationChance": 2
+          "tempMinC": 16.2,
+          "tempMaxC": 31.2,
+          "precipitationChance": 1
         },
         {
           "date": "2026-10-24",
-          "tempMinC": 13.6,
-          "tempMaxC": 32.6,
+          "tempMinC": 17.3,
+          "tempMaxC": 32.3,
           "precipitationChance": 1
         },
         {
           "date": "2026-10-25",
-          "tempMinC": 14.7,
-          "tempMaxC": 32.7,
+          "tempMinC": 16.6,
+          "tempMaxC": 31.6,
           "precipitationChance": 4
         },
         {
           "date": "2026-10-26",
-          "tempMinC": 14.9,
-          "tempMaxC": 33.9,
-          "precipitationChance": 4
+          "tempMinC": 15.7,
+          "tempMaxC": 29.7,
+          "precipitationChance": 1
         },
         {
           "date": "2026-10-27",
-          "tempMinC": 14,
-          "tempMaxC": 34,
-          "precipitationChance": 4
+          "tempMinC": 13.9,
+          "tempMaxC": 28.9,
+          "precipitationChance": 1
         },
         {
           "date": "2026-10-28",
-          "tempMinC": 0.2,
-          "tempMaxC": 0.2,
-          "precipitationChance": 7
+          "tempMinC": 16,
+          "tempMaxC": 27,
+          "precipitationChance": 1
         },
         {
           "date": "2026-10-29",
-          "tempMinC": 11.5,
-          "tempMaxC": 30.5,
-          "precipitationChance": 2
+          "tempMinC": 0.2,
+          "tempMaxC": 0.2,
+          "precipitationChance": 4
         },
         {
           "date": "2026-10-30",
-          "tempMinC": 13.9,
-          "tempMaxC": 32.8,
-          "precipitationChance": 3
+          "tempMinC": 16.5,
+          "tempMaxC": 31.5,
+          "precipitationChance": 2
         },
         {
           "date": "2026-10-31",
-          "tempMinC": 13.3,
-          "tempMaxC": 32.3,
+          "tempMinC": 16.9,
+          "tempMaxC": 31.9,
           "precipitationChance": 2
         },
         {
           "date": "2026-11-01",
-          "tempMinC": 14.6,
-          "tempMaxC": 32.6,
+          "tempMinC": 16.3,
+          "tempMaxC": 31.3,
           "precipitationChance": 5
         },
         {
           "date": "2026-11-02",
-          "tempMinC": 14.9,
-          "tempMaxC": 33.9,
-          "precipitationChance": 5
+          "tempMinC": 15.6,
+          "tempMaxC": 29.6,
+          "precipitationChance": 2
         },
         {
           "date": "2026-11-03",
-          "tempMinC": 14.2,
-          "tempMaxC": 34.2,
-          "precipitationChance": 5
+          "tempMinC": 13.9,
+          "tempMaxC": 28.9,
+          "precipitationChance": 2
         },
         {
           "date": "2026-11-04",
+          "tempMinC": 16.2,
+          "tempMaxC": 27.2,
+          "precipitationChance": 2
+        },
+        {
+          "date": "2026-11-05",
           "tempMinC": 0.5,
           "tempMaxC": 0.5,
-          "precipitationChance": 8
+          "precipitationChance": 5
         }
       ]
     },
     "US-iowa": {
       "locationName": "Iowa",
-      "temperatureC": 10,
-      "humidity": 80,
-      "windKmh": 10,
+      "temperatureC": 12,
+      "humidity": 85,
+      "windKmh": 8,
       "precipitationChance": 0,
-      "updatedAt": "2026-10-06T10:16:51.824Z",
+      "updatedAt": "2026-10-07T10:15:18.517Z",
       "forecast30d": [
-        {
-          "date": "2026-10-06",
-          "tempMinC": 10,
-          "tempMaxC": 25,
-          "precipitationChance": 4
-        },
         {
           "date": "2026-10-07",
           "tempMinC": 11,
@@ -785,930 +779,936 @@
         },
         {
           "date": "2026-10-08",
-          "tempMinC": 12,
+          "tempMinC": 9,
           "tempMaxC": 21,
-          "precipitationChance": 3
+          "precipitationChance": 21
         },
         {
           "date": "2026-10-09",
-          "tempMinC": 12,
-          "tempMaxC": 23,
-          "precipitationChance": 11
+          "tempMinC": 14,
+          "tempMaxC": 27,
+          "precipitationChance": 39
         },
         {
           "date": "2026-10-10",
-          "tempMinC": 18,
+          "tempMinC": 17,
           "tempMaxC": 28,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-11",
-          "tempMinC": 16,
-          "tempMaxC": 28,
-          "precipitationChance": 6
+          "tempMinC": 15,
+          "tempMaxC": 27,
+          "precipitationChance": 2
         },
         {
           "date": "2026-10-12",
-          "tempMinC": 17,
-          "tempMaxC": 27,
-          "precipitationChance": 20
+          "tempMinC": 12,
+          "tempMaxC": 19,
+          "precipitationChance": 9
         },
         {
           "date": "2026-10-13",
-          "tempMinC": 18,
-          "tempMaxC": 28,
-          "precipitationChance": 29
+          "tempMinC": 9,
+          "tempMaxC": 15,
+          "precipitationChance": 23
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 16,
-          "tempMaxC": 22,
-          "precipitationChance": 27
+          "tempMinC": 9,
+          "tempMaxC": 18,
+          "precipitationChance": 34
         },
         {
           "date": "2026-10-15",
-          "tempMinC": 10,
-          "tempMaxC": 17,
-          "precipitationChance": 27
+          "tempMinC": 9,
+          "tempMaxC": 21,
+          "precipitationChance": 33
         },
         {
           "date": "2026-10-16",
-          "tempMinC": 6,
+          "tempMinC": 4,
           "tempMaxC": 10,
-          "precipitationChance": 15
+          "precipitationChance": 17
         },
         {
           "date": "2026-10-17",
-          "tempMinC": 3,
-          "tempMaxC": 10,
-          "precipitationChance": 13
+          "tempMinC": 2,
+          "tempMaxC": 9,
+          "precipitationChance": 14
         },
         {
           "date": "2026-10-18",
           "tempMinC": 2,
-          "tempMaxC": 12,
-          "precipitationChance": 16
+          "tempMaxC": 13,
+          "precipitationChance": 13
         },
         {
           "date": "2026-10-19",
-          "tempMinC": 4,
-          "tempMaxC": 14,
-          "precipitationChance": 7
+          "tempMinC": 6,
+          "tempMaxC": 15,
+          "precipitationChance": 11
         },
         {
           "date": "2026-10-20",
           "tempMinC": 7,
-          "tempMaxC": 14,
-          "precipitationChance": 6
-        },
-        {
-          "date": "2026-10-21",
-          "tempMinC": 0,
-          "tempMaxC": 0,
+          "tempMaxC": 15,
           "precipitationChance": 13
         },
         {
+          "date": "2026-10-21",
+          "tempMinC": 8,
+          "tempMaxC": 13,
+          "precipitationChance": 14
+        },
+        {
           "date": "2026-10-22",
-          "tempMinC": 10.2,
-          "tempMaxC": 17.2,
-          "precipitationChance": 28
+          "tempMinC": 0,
+          "tempMaxC": 0,
+          "precipitationChance": 6
         },
         {
           "date": "2026-10-23",
-          "tempMinC": 6.3,
-          "tempMaxC": 10.3,
-          "precipitationChance": 16
+          "tempMinC": 4.2,
+          "tempMaxC": 10.2,
+          "precipitationChance": 18
         },
         {
           "date": "2026-10-24",
-          "tempMinC": 2.6,
-          "tempMaxC": 9.6,
-          "precipitationChance": 14
-        },
-        {
-          "date": "2026-10-25",
-          "tempMinC": 1.7,
-          "tempMaxC": 11.7,
-          "precipitationChance": 17
-        },
-        {
-          "date": "2026-10-26",
-          "tempMinC": 3.9,
-          "tempMaxC": 13.9,
-          "precipitationChance": 8
-        },
-        {
-          "date": "2026-10-27",
-          "tempMinC": 7,
-          "tempMaxC": 14,
-          "precipitationChance": 7
-        },
-        {
-          "date": "2026-10-28",
-          "tempMinC": 0.2,
-          "tempMaxC": 0.2,
-          "precipitationChance": 14
-        },
-        {
-          "date": "2026-10-29",
-          "tempMinC": 10.5,
-          "tempMaxC": 17.5,
-          "precipitationChance": 29
-        },
-        {
-          "date": "2026-10-30",
-          "tempMinC": 5.9,
-          "tempMaxC": 9.9,
-          "precipitationChance": 17
-        },
-        {
-          "date": "2026-10-31",
           "tempMinC": 2.3,
           "tempMaxC": 9.3,
           "precipitationChance": 15
         },
         {
-          "date": "2026-11-01",
+          "date": "2026-10-25",
           "tempMinC": 1.6,
-          "tempMaxC": 11.5,
-          "precipitationChance": 18
+          "tempMaxC": 12.6,
+          "precipitationChance": 14
+        },
+        {
+          "date": "2026-10-26",
+          "tempMinC": 5.7,
+          "tempMaxC": 14.7,
+          "precipitationChance": 12
+        },
+        {
+          "date": "2026-10-27",
+          "tempMinC": 6.9,
+          "tempMaxC": 14.9,
+          "precipitationChance": 14
+        },
+        {
+          "date": "2026-10-28",
+          "tempMinC": 8,
+          "tempMaxC": 13,
+          "precipitationChance": 15
+        },
+        {
+          "date": "2026-10-29",
+          "tempMinC": 0.2,
+          "tempMaxC": 0.2,
+          "precipitationChance": 7
+        },
+        {
+          "date": "2026-10-30",
+          "tempMinC": 4.5,
+          "tempMaxC": 10.5,
+          "precipitationChance": 19
+        },
+        {
+          "date": "2026-10-31",
+          "tempMinC": 1.9,
+          "tempMaxC": 8.9,
+          "precipitationChance": 16
+        },
+        {
+          "date": "2026-11-01",
+          "tempMinC": 1.3,
+          "tempMaxC": 12.3,
+          "precipitationChance": 15
         },
         {
           "date": "2026-11-02",
-          "tempMinC": 3.9,
-          "tempMaxC": 13.9,
-          "precipitationChance": 9
+          "tempMinC": 5.6,
+          "tempMaxC": 14.6,
+          "precipitationChance": 13
         },
         {
           "date": "2026-11-03",
-          "tempMinC": 7.2,
-          "tempMaxC": 14.2,
-          "precipitationChance": 8
+          "tempMinC": 6.9,
+          "tempMaxC": 14.9,
+          "precipitationChance": 15
         },
         {
           "date": "2026-11-04",
+          "tempMinC": 8.2,
+          "tempMaxC": 13.2,
+          "precipitationChance": 16
+        },
+        {
+          "date": "2026-11-05",
           "tempMinC": 0.5,
           "tempMaxC": 0.5,
-          "precipitationChance": 15
+          "precipitationChance": 8
         }
       ]
     },
     "BR-sao-paulo": {
       "locationName": "Sao Paulo",
-      "temperatureC": 17,
+      "temperatureC": 19,
       "humidity": 95,
-      "windKmh": 6,
-      "precipitationChance": 31,
-      "updatedAt": "2026-10-06T10:16:52.110Z",
+      "windKmh": 2,
+      "precipitationChance": 39,
+      "updatedAt": "2026-10-07T10:15:18.862Z",
       "forecast30d": [
         {
-          "date": "2026-10-06",
-          "tempMinC": 16,
-          "tempMaxC": 25,
-          "precipitationChance": 90
-        },
-        {
           "date": "2026-10-07",
-          "tempMinC": 18,
-          "tempMaxC": 26,
-          "precipitationChance": 90
+          "tempMinC": 17,
+          "tempMaxC": 25,
+          "precipitationChance": 100
         },
         {
           "date": "2026-10-08",
-          "tempMinC": 16,
-          "tempMaxC": 29,
-          "precipitationChance": 18
+          "tempMinC": 15,
+          "tempMaxC": 28,
+          "precipitationChance": 31
         },
         {
           "date": "2026-10-09",
           "tempMinC": 19,
           "tempMaxC": 30,
-          "precipitationChance": 52
+          "precipitationChance": 39
         },
         {
           "date": "2026-10-10",
-          "tempMinC": 19,
-          "tempMaxC": 30,
+          "tempMinC": 20,
+          "tempMaxC": 31,
           "precipitationChance": 84
         },
         {
           "date": "2026-10-11",
-          "tempMinC": 19,
+          "tempMinC": 18,
           "tempMaxC": 27,
-          "precipitationChance": 83
+          "precipitationChance": 85
         },
         {
           "date": "2026-10-12",
           "tempMinC": 19,
-          "tempMaxC": 27,
-          "precipitationChance": 77
+          "tempMaxC": 26,
+          "precipitationChance": 96
         },
         {
           "date": "2026-10-13",
           "tempMinC": 19,
-          "tempMaxC": 27,
-          "precipitationChance": 82
+          "tempMaxC": 25,
+          "precipitationChance": 91
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 19,
-          "tempMaxC": 28,
+          "tempMinC": 20,
+          "tempMaxC": 25,
           "precipitationChance": 76
         },
         {
           "date": "2026-10-15",
-          "tempMinC": 18,
+          "tempMinC": 17,
           "tempMaxC": 22,
-          "precipitationChance": 61
+          "precipitationChance": 81
         },
         {
           "date": "2026-10-16",
-          "tempMinC": 18,
-          "tempMaxC": 23,
+          "tempMinC": 16,
+          "tempMaxC": 19,
           "precipitationChance": 69
         },
         {
           "date": "2026-10-17",
-          "tempMinC": 17,
-          "tempMaxC": 23,
-          "precipitationChance": 61
+          "tempMinC": 15,
+          "tempMaxC": 18,
+          "precipitationChance": 64
         },
         {
           "date": "2026-10-18",
-          "tempMinC": 17,
-          "tempMaxC": 25,
-          "precipitationChance": 63
+          "tempMinC": 15,
+          "tempMaxC": 20,
+          "precipitationChance": 67
         },
         {
           "date": "2026-10-19",
-          "tempMinC": 18,
-          "tempMaxC": 23,
-          "precipitationChance": 30
+          "tempMinC": 15,
+          "tempMaxC": 24,
+          "precipitationChance": 65
         },
         {
           "date": "2026-10-20",
           "tempMinC": 17,
-          "tempMaxC": 25,
-          "precipitationChance": 58
+          "tempMaxC": 22,
+          "precipitationChance": 61
         },
         {
           "date": "2026-10-21",
-          "tempMinC": 0,
-          "tempMaxC": 0,
-          "precipitationChance": 51
+          "tempMinC": 15,
+          "tempMaxC": 24,
+          "precipitationChance": 40
         },
         {
           "date": "2026-10-22",
-          "tempMinC": 18.2,
-          "tempMaxC": 22.2,
-          "precipitationChance": 62
+          "tempMinC": 0,
+          "tempMaxC": 0,
+          "precipitationChance": 45
         },
         {
           "date": "2026-10-23",
-          "tempMinC": 18.3,
-          "tempMaxC": 23.3,
+          "tempMinC": 16.2,
+          "tempMaxC": 19.2,
           "precipitationChance": 70
         },
         {
           "date": "2026-10-24",
-          "tempMinC": 16.6,
-          "tempMaxC": 22.6,
-          "precipitationChance": 62
+          "tempMinC": 15.3,
+          "tempMaxC": 18.3,
+          "precipitationChance": 65
         },
         {
           "date": "2026-10-25",
-          "tempMinC": 16.7,
-          "tempMaxC": 24.7,
-          "precipitationChance": 64
+          "tempMinC": 14.6,
+          "tempMaxC": 19.6,
+          "precipitationChance": 68
         },
         {
           "date": "2026-10-26",
-          "tempMinC": 17.9,
-          "tempMaxC": 22.9,
-          "precipitationChance": 31
+          "tempMinC": 14.7,
+          "tempMaxC": 23.7,
+          "precipitationChance": 66
         },
         {
           "date": "2026-10-27",
-          "tempMinC": 17,
-          "tempMaxC": 25,
-          "precipitationChance": 59
+          "tempMinC": 16.9,
+          "tempMaxC": 21.9,
+          "precipitationChance": 62
         },
         {
           "date": "2026-10-28",
-          "tempMinC": 0.2,
-          "tempMaxC": 0.2,
-          "precipitationChance": 52
+          "tempMinC": 15,
+          "tempMaxC": 24,
+          "precipitationChance": 41
         },
         {
           "date": "2026-10-29",
-          "tempMinC": 18.5,
-          "tempMaxC": 22.5,
-          "precipitationChance": 63
+          "tempMinC": 0.2,
+          "tempMaxC": 0.2,
+          "precipitationChance": 46
         },
         {
           "date": "2026-10-30",
-          "tempMinC": 17.9,
-          "tempMaxC": 22.9,
+          "tempMinC": 16.5,
+          "tempMaxC": 19.5,
           "precipitationChance": 71
         },
         {
           "date": "2026-10-31",
-          "tempMinC": 16.3,
-          "tempMaxC": 22.3,
-          "precipitationChance": 63
+          "tempMinC": 14.9,
+          "tempMaxC": 17.9,
+          "precipitationChance": 66
         },
         {
           "date": "2026-11-01",
-          "tempMinC": 16.6,
-          "tempMaxC": 24.6,
-          "precipitationChance": 65
+          "tempMinC": 14.3,
+          "tempMaxC": 19.3,
+          "precipitationChance": 69
         },
         {
           "date": "2026-11-02",
-          "tempMinC": 17.9,
-          "tempMaxC": 22.9,
-          "precipitationChance": 32
+          "tempMinC": 14.6,
+          "tempMaxC": 23.6,
+          "precipitationChance": 67
         },
         {
           "date": "2026-11-03",
-          "tempMinC": 17.2,
-          "tempMaxC": 25.2,
-          "precipitationChance": 60
+          "tempMinC": 16.9,
+          "tempMaxC": 21.9,
+          "precipitationChance": 63
         },
         {
           "date": "2026-11-04",
+          "tempMinC": 15.2,
+          "tempMaxC": 24.2,
+          "precipitationChance": 42
+        },
+        {
+          "date": "2026-11-05",
           "tempMinC": 0.5,
           "tempMaxC": 0.5,
-          "precipitationChance": 53
+          "precipitationChance": 47
         }
       ]
     },
     "IN-punjab": {
       "locationName": "Punjab",
-      "temperatureC": 33,
+      "temperatureC": 32,
       "humidity": 54,
-      "windKmh": 7,
-      "precipitationChance": 12,
-      "updatedAt": "2026-10-06T10:16:52.400Z",
+      "windKmh": 4,
+      "precipitationChance": 31,
+      "updatedAt": "2026-10-07T10:15:19.211Z",
       "forecast30d": [
         {
-          "date": "2026-10-06",
-          "tempMinC": 24,
-          "tempMaxC": 33,
-          "precipitationChance": 29
-        },
-        {
           "date": "2026-10-07",
-          "tempMinC": 22,
-          "tempMaxC": 31,
+          "tempMinC": 24,
+          "tempMaxC": 32,
           "precipitationChance": 100
         },
         {
           "date": "2026-10-08",
           "tempMinC": 23,
           "tempMaxC": 31,
-          "precipitationChance": 68
+          "precipitationChance": 69
         },
         {
           "date": "2026-10-09",
-          "tempMinC": 22,
-          "tempMaxC": 31,
-          "precipitationChance": 34
+          "tempMinC": 23,
+          "tempMaxC": 32,
+          "precipitationChance": 18
         },
         {
           "date": "2026-10-10",
-          "tempMinC": 22,
-          "tempMaxC": 30,
+          "tempMinC": 21,
+          "tempMaxC": 31,
           "precipitationChance": 22
         },
         {
           "date": "2026-10-11",
-          "tempMinC": 22,
-          "tempMaxC": 29,
-          "precipitationChance": 22
+          "tempMinC": 21,
+          "tempMaxC": 30,
+          "precipitationChance": 18
         },
         {
           "date": "2026-10-12",
           "tempMinC": 21,
-          "tempMaxC": 30,
-          "precipitationChance": 2
+          "tempMaxC": 31,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-13",
           "tempMinC": 21,
-          "tempMaxC": 30,
-          "precipitationChance": 4
+          "tempMaxC": 31,
+          "precipitationChance": 2
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 21,
-          "tempMaxC": 30,
-          "precipitationChance": 10
+          "tempMinC": 22,
+          "tempMaxC": 31,
+          "precipitationChance": 2
         },
         {
           "date": "2026-10-15",
-          "tempMinC": 21,
-          "tempMaxC": 30,
-          "precipitationChance": 16
+          "tempMinC": 22,
+          "tempMaxC": 31,
+          "precipitationChance": 10
         },
         {
           "date": "2026-10-16",
           "tempMinC": 21,
-          "tempMaxC": 31,
+          "tempMaxC": 32,
           "precipitationChance": 6
         },
         {
           "date": "2026-10-17",
-          "tempMinC": 19,
-          "tempMaxC": 31,
-          "precipitationChance": 10
+          "tempMinC": 21,
+          "tempMaxC": 32,
+          "precipitationChance": 8
         },
         {
           "date": "2026-10-18",
-          "tempMinC": 18,
-          "tempMaxC": 30,
-          "precipitationChance": 6
+          "tempMinC": 21,
+          "tempMaxC": 32,
+          "precipitationChance": 7
         },
         {
           "date": "2026-10-19",
-          "tempMinC": 18,
-          "tempMaxC": 30,
-          "precipitationChance": 6
-        },
-        {
-          "date": "2026-10-20",
-          "tempMinC": 19,
-          "tempMaxC": 31,
-          "precipitationChance": 3
-        },
-        {
-          "date": "2026-10-21",
-          "tempMinC": 21,
-          "tempMaxC": 35,
-          "precipitationChance": 7
-        },
-        {
-          "date": "2026-10-22",
-          "tempMinC": 21.2,
-          "tempMaxC": 30.2,
-          "precipitationChance": 17
-        },
-        {
-          "date": "2026-10-23",
-          "tempMinC": 21.3,
-          "tempMaxC": 31.3,
-          "precipitationChance": 7
-        },
-        {
-          "date": "2026-10-24",
-          "tempMinC": 18.6,
-          "tempMaxC": 30.6,
-          "precipitationChance": 11
-        },
-        {
-          "date": "2026-10-25",
-          "tempMinC": 17.7,
-          "tempMaxC": 29.7,
-          "precipitationChance": 7
-        },
-        {
-          "date": "2026-10-26",
-          "tempMinC": 17.9,
-          "tempMaxC": 29.9,
-          "precipitationChance": 7
-        },
-        {
-          "date": "2026-10-27",
-          "tempMinC": 19,
+          "tempMinC": 20,
           "tempMaxC": 31,
           "precipitationChance": 4
         },
         {
-          "date": "2026-10-28",
+          "date": "2026-10-20",
+          "tempMinC": 19,
+          "tempMaxC": 32,
+          "precipitationChance": 6
+        },
+        {
+          "date": "2026-10-21",
+          "tempMinC": 19,
+          "tempMaxC": 32,
+          "precipitationChance": 10
+        },
+        {
+          "date": "2026-10-22",
+          "tempMinC": 20,
+          "tempMaxC": 32,
+          "precipitationChance": 13
+        },
+        {
+          "date": "2026-10-23",
           "tempMinC": 21.2,
-          "tempMaxC": 35.2,
+          "tempMaxC": 32.2,
+          "precipitationChance": 7
+        },
+        {
+          "date": "2026-10-24",
+          "tempMinC": 21.3,
+          "tempMaxC": 32.3,
+          "precipitationChance": 9
+        },
+        {
+          "date": "2026-10-25",
+          "tempMinC": 20.6,
+          "tempMaxC": 31.6,
           "precipitationChance": 8
         },
         {
+          "date": "2026-10-26",
+          "tempMinC": 19.7,
+          "tempMaxC": 30.7,
+          "precipitationChance": 5
+        },
+        {
+          "date": "2026-10-27",
+          "tempMinC": 18.9,
+          "tempMaxC": 31.9,
+          "precipitationChance": 7
+        },
+        {
+          "date": "2026-10-28",
+          "tempMinC": 19,
+          "tempMaxC": 32,
+          "precipitationChance": 11
+        },
+        {
           "date": "2026-10-29",
-          "tempMinC": 21.5,
-          "tempMaxC": 30.5,
-          "precipitationChance": 18
+          "tempMinC": 20.2,
+          "tempMaxC": 32.2,
+          "precipitationChance": 14
         },
         {
           "date": "2026-10-30",
-          "tempMinC": 20.9,
-          "tempMaxC": 30.9,
+          "tempMinC": 21.5,
+          "tempMaxC": 32.5,
           "precipitationChance": 8
         },
         {
           "date": "2026-10-31",
-          "tempMinC": 18.3,
-          "tempMaxC": 30.3,
-          "precipitationChance": 12
+          "tempMinC": 20.9,
+          "tempMaxC": 31.9,
+          "precipitationChance": 10
         },
         {
           "date": "2026-11-01",
-          "tempMinC": 17.6,
-          "tempMaxC": 29.6,
-          "precipitationChance": 8
+          "tempMinC": 20.3,
+          "tempMaxC": 31.3,
+          "precipitationChance": 9
         },
         {
           "date": "2026-11-02",
-          "tempMinC": 17.9,
-          "tempMaxC": 29.9,
-          "precipitationChance": 8
+          "tempMinC": 19.6,
+          "tempMaxC": 30.6,
+          "precipitationChance": 6
         },
         {
           "date": "2026-11-03",
-          "tempMinC": 19.2,
-          "tempMaxC": 31.2,
-          "precipitationChance": 5
+          "tempMinC": 18.9,
+          "tempMaxC": 31.9,
+          "precipitationChance": 8
         },
         {
           "date": "2026-11-04",
-          "tempMinC": 21.5,
-          "tempMaxC": 35.5,
-          "precipitationChance": 9
+          "tempMinC": 19.2,
+          "tempMaxC": 32.2,
+          "precipitationChance": 12
+        },
+        {
+          "date": "2026-11-05",
+          "tempMinC": 20.5,
+          "tempMaxC": 32.5,
+          "precipitationChance": 15
         }
       ]
     },
     "ES-andalusia": {
       "locationName": "Andalusia",
-      "temperatureC": 26,
-      "humidity": 53,
-      "windKmh": 6,
-      "precipitationChance": 11,
-      "updatedAt": "2026-10-06T10:16:52.686Z",
+      "temperatureC": 23,
+      "humidity": 59,
+      "windKmh": 3,
+      "precipitationChance": 0,
+      "updatedAt": "2026-10-07T10:15:19.557Z",
       "forecast30d": [
         {
-          "date": "2026-10-06",
-          "tempMinC": 21,
-          "tempMaxC": 28,
-          "precipitationChance": 65
-        },
-        {
           "date": "2026-10-07",
-          "tempMinC": 18,
-          "tempMaxC": 27,
-          "precipitationChance": 10
+          "tempMinC": 16,
+          "tempMaxC": 28,
+          "precipitationChance": 8
         },
         {
           "date": "2026-10-08",
-          "tempMinC": 16,
-          "tempMaxC": 29,
+          "tempMinC": 15,
+          "tempMaxC": 30,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-09",
-          "tempMinC": 18,
-          "tempMaxC": 30,
-          "precipitationChance": 4
+          "tempMinC": 17,
+          "tempMaxC": 29,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-10",
-          "tempMinC": 19,
+          "tempMinC": 15,
           "tempMaxC": 30,
-          "precipitationChance": 10
+          "precipitationChance": 2
         },
         {
           "date": "2026-10-11",
-          "tempMinC": 18,
-          "tempMaxC": 28,
-          "precipitationChance": 4
+          "tempMinC": 15,
+          "tempMaxC": 29,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-12",
-          "tempMinC": 19,
-          "tempMaxC": 28,
-          "precipitationChance": 0
+          "tempMinC": 15,
+          "tempMaxC": 32,
+          "precipitationChance": 1
         },
         {
           "date": "2026-10-13",
           "tempMinC": 16,
-          "tempMaxC": 30,
-          "precipitationChance": 8
+          "tempMaxC": 33,
+          "precipitationChance": 2
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 19,
-          "tempMaxC": 29,
-          "precipitationChance": 9
+          "tempMinC": 20,
+          "tempMaxC": 28,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-15",
-          "tempMinC": 18,
-          "tempMaxC": 29,
-          "precipitationChance": 8
+          "tempMinC": 17,
+          "tempMaxC": 28,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-16",
           "tempMinC": 16,
-          "tempMaxC": 29,
-          "precipitationChance": 7
+          "tempMaxC": 27,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-17",
-          "tempMinC": 14,
-          "tempMaxC": 21,
-          "precipitationChance": 12
-        },
-        {
-          "date": "2026-10-18",
-          "tempMinC": 11,
-          "tempMaxC": 19,
-          "precipitationChance": 10
-        },
-        {
-          "date": "2026-10-19",
-          "tempMinC": 13,
-          "tempMaxC": 26,
-          "precipitationChance": 6
-        },
-        {
-          "date": "2026-10-20",
           "tempMinC": 16,
-          "tempMaxC": 27,
-          "precipitationChance": 6
-        },
-        {
-          "date": "2026-10-21",
-          "tempMinC": 15,
           "tempMaxC": 28,
           "precipitationChance": 10
         },
         {
-          "date": "2026-10-22",
-          "tempMinC": 18.2,
-          "tempMaxC": 29.2,
-          "precipitationChance": 9
-        },
-        {
-          "date": "2026-10-23",
-          "tempMinC": 16.3,
-          "tempMaxC": 29.3,
+          "date": "2026-10-18",
+          "tempMinC": 17,
+          "tempMaxC": 28,
           "precipitationChance": 8
         },
         {
-          "date": "2026-10-24",
-          "tempMinC": 13.6,
-          "tempMaxC": 20.6,
-          "precipitationChance": 13
+          "date": "2026-10-19",
+          "tempMinC": 17,
+          "tempMaxC": 28,
+          "precipitationChance": 8
         },
         {
-          "date": "2026-10-25",
-          "tempMinC": 10.7,
-          "tempMaxC": 18.7,
-          "precipitationChance": 11
-        },
-        {
-          "date": "2026-10-26",
-          "tempMinC": 12.9,
-          "tempMaxC": 25.9,
-          "precipitationChance": 7
-        },
-        {
-          "date": "2026-10-27",
-          "tempMinC": 16,
-          "tempMaxC": 27,
-          "precipitationChance": 7
-        },
-        {
-          "date": "2026-10-28",
-          "tempMinC": 15.2,
-          "tempMaxC": 28.2,
-          "precipitationChance": 11
-        },
-        {
-          "date": "2026-10-29",
-          "tempMinC": 18.5,
-          "tempMaxC": 29.5,
-          "precipitationChance": 10
-        },
-        {
-          "date": "2026-10-30",
-          "tempMinC": 15.9,
-          "tempMaxC": 28.9,
-          "precipitationChance": 9
-        },
-        {
-          "date": "2026-10-31",
-          "tempMinC": 13.3,
-          "tempMaxC": 20.3,
+          "date": "2026-10-20",
+          "tempMinC": 17,
+          "tempMaxC": 29,
           "precipitationChance": 14
         },
         {
-          "date": "2026-11-01",
-          "tempMinC": 10.5,
-          "tempMaxC": 18.6,
+          "date": "2026-10-21",
+          "tempMinC": 16,
+          "tempMaxC": 28,
+          "precipitationChance": 19
+        },
+        {
+          "date": "2026-10-22",
+          "tempMinC": 14,
+          "tempMaxC": 25,
+          "precipitationChance": 17
+        },
+        {
+          "date": "2026-10-23",
+          "tempMinC": 16.2,
+          "tempMaxC": 27.2,
+          "precipitationChance": 1
+        },
+        {
+          "date": "2026-10-24",
+          "tempMinC": 16.3,
+          "tempMaxC": 28.3,
+          "precipitationChance": 11
+        },
+        {
+          "date": "2026-10-25",
+          "tempMinC": 16.6,
+          "tempMaxC": 27.6,
+          "precipitationChance": 9
+        },
+        {
+          "date": "2026-10-26",
+          "tempMinC": 16.7,
+          "tempMaxC": 27.7,
+          "precipitationChance": 9
+        },
+        {
+          "date": "2026-10-27",
+          "tempMinC": 16.9,
+          "tempMaxC": 28.9,
+          "precipitationChance": 15
+        },
+        {
+          "date": "2026-10-28",
+          "tempMinC": 16,
+          "tempMaxC": 28,
+          "precipitationChance": 20
+        },
+        {
+          "date": "2026-10-29",
+          "tempMinC": 14.2,
+          "tempMaxC": 25.2,
+          "precipitationChance": 18
+        },
+        {
+          "date": "2026-10-30",
+          "tempMinC": 16.5,
+          "tempMaxC": 27.5,
+          "precipitationChance": 2
+        },
+        {
+          "date": "2026-10-31",
+          "tempMinC": 15.9,
+          "tempMaxC": 27.9,
           "precipitationChance": 12
+        },
+        {
+          "date": "2026-11-01",
+          "tempMinC": 16.3,
+          "tempMaxC": 27.3,
+          "precipitationChance": 10
         },
         {
           "date": "2026-11-02",
-          "tempMinC": 12.9,
-          "tempMaxC": 25.9,
-          "precipitationChance": 8
+          "tempMinC": 16.6,
+          "tempMaxC": 27.6,
+          "precipitationChance": 10
         },
         {
           "date": "2026-11-03",
-          "tempMinC": 16.2,
-          "tempMaxC": 27.2,
-          "precipitationChance": 8
+          "tempMinC": 16.9,
+          "tempMaxC": 28.9,
+          "precipitationChance": 16
         },
         {
           "date": "2026-11-04",
-          "tempMinC": 15.5,
-          "tempMaxC": 28.5,
-          "precipitationChance": 12
+          "tempMinC": 16.2,
+          "tempMaxC": 28.2,
+          "precipitationChance": 21
+        },
+        {
+          "date": "2026-11-05",
+          "tempMinC": 14.5,
+          "tempMaxC": 25.5,
+          "precipitationChance": 19
         }
       ]
     },
     "FR-occitanie": {
       "locationName": "Occitanie",
-      "temperatureC": 22,
-      "humidity": 78,
-      "windKmh": 6,
-      "precipitationChance": 23,
-      "updatedAt": "2026-10-06T10:16:52.972Z",
+      "temperatureC": 21,
+      "humidity": 73,
+      "windKmh": 8,
+      "precipitationChance": 0,
+      "updatedAt": "2026-10-07T10:15:19.903Z",
       "forecast30d": [
-        {
-          "date": "2026-10-06",
-          "tempMinC": 17,
-          "tempMaxC": 23,
-          "precipitationChance": 63
-        },
         {
           "date": "2026-10-07",
           "tempMinC": 18,
-          "tempMaxC": 21,
+          "tempMaxC": 23,
           "precipitationChance": 100
         },
         {
           "date": "2026-10-08",
           "tempMinC": 13,
           "tempMaxC": 20,
-          "precipitationChance": 15
+          "precipitationChance": 40
         },
         {
           "date": "2026-10-09",
-          "tempMinC": 10,
+          "tempMinC": 11,
           "tempMaxC": 21,
           "precipitationChance": 3
         },
         {
           "date": "2026-10-10",
-          "tempMinC": 14,
-          "tempMaxC": 25,
-          "precipitationChance": 0
+          "tempMinC": 10,
+          "tempMaxC": 23,
+          "precipitationChance": 5
         },
         {
           "date": "2026-10-11",
-          "tempMinC": 12,
-          "tempMaxC": 23,
-          "precipitationChance": 0
+          "tempMinC": 11,
+          "tempMaxC": 21,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-12",
-          "tempMinC": 11,
-          "tempMaxC": 22,
-          "precipitationChance": 0
+          "tempMinC": 8,
+          "tempMaxC": 23,
+          "precipitationChance": 2
         },
         {
           "date": "2026-10-13",
-          "tempMinC": 10,
-          "tempMaxC": 22,
-          "precipitationChance": 10
+          "tempMinC": 12,
+          "tempMaxC": 25,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 13,
-          "tempMaxC": 23,
-          "precipitationChance": 10
+          "tempMinC": 14,
+          "tempMaxC": 21,
+          "precipitationChance": 3
         },
         {
           "date": "2026-10-15",
-          "tempMinC": 14,
-          "tempMaxC": 21,
-          "precipitationChance": 16
+          "tempMinC": 12,
+          "tempMaxC": 24,
+          "precipitationChance": 11
         },
         {
           "date": "2026-10-16",
-          "tempMinC": 13,
-          "tempMaxC": 18,
-          "precipitationChance": 22
+          "tempMinC": 10,
+          "tempMaxC": 22,
+          "precipitationChance": 8
         },
         {
           "date": "2026-10-17",
-          "tempMinC": 11,
+          "tempMinC": 12,
           "tempMaxC": 19,
-          "precipitationChance": 16
+          "precipitationChance": 12
         },
         {
           "date": "2026-10-18",
-          "tempMinC": 12,
-          "tempMaxC": 20,
-          "precipitationChance": 20
+          "tempMinC": 7,
+          "tempMaxC": 22,
+          "precipitationChance": 7
         },
         {
           "date": "2026-10-19",
-          "tempMinC": 11,
-          "tempMaxC": 18,
-          "precipitationChance": 0
+          "tempMinC": 8,
+          "tempMaxC": 22,
+          "precipitationChance": 12
         },
         {
           "date": "2026-10-20",
-          "tempMinC": 9,
-          "tempMaxC": 18,
-          "precipitationChance": 0
+          "tempMinC": 10,
+          "tempMaxC": 21,
+          "precipitationChance": 17
         },
         {
           "date": "2026-10-21",
           "tempMinC": 11,
-          "tempMaxC": 21,
+          "tempMaxC": 20,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-22",
-          "tempMinC": 14.2,
-          "tempMaxC": 21.2,
-          "precipitationChance": 17
+          "tempMinC": 9,
+          "tempMaxC": 18,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-23",
-          "tempMinC": 13.3,
-          "tempMaxC": 18.3,
-          "precipitationChance": 23
+          "tempMinC": 10.2,
+          "tempMaxC": 22.2,
+          "precipitationChance": 9
         },
         {
           "date": "2026-10-24",
-          "tempMinC": 10.6,
-          "tempMaxC": 18.6,
-          "precipitationChance": 17
+          "tempMinC": 12.3,
+          "tempMaxC": 19.3,
+          "precipitationChance": 13
         },
         {
           "date": "2026-10-25",
-          "tempMinC": 11.7,
-          "tempMaxC": 19.7,
-          "precipitationChance": 21
+          "tempMinC": 6.6,
+          "tempMaxC": 21.6,
+          "precipitationChance": 8
         },
         {
           "date": "2026-10-26",
-          "tempMinC": 10.9,
-          "tempMaxC": 17.9,
-          "precipitationChance": 1
+          "tempMinC": 7.7,
+          "tempMaxC": 21.7,
+          "precipitationChance": 13
         },
         {
           "date": "2026-10-27",
-          "tempMinC": 9,
-          "tempMaxC": 18,
-          "precipitationChance": 1
+          "tempMinC": 9.9,
+          "tempMaxC": 20.9,
+          "precipitationChance": 18
         },
         {
           "date": "2026-10-28",
-          "tempMinC": 11.2,
-          "tempMaxC": 21.2,
+          "tempMinC": 11,
+          "tempMaxC": 20,
           "precipitationChance": 1
         },
         {
           "date": "2026-10-29",
-          "tempMinC": 14.5,
-          "tempMaxC": 21.5,
-          "precipitationChance": 18
+          "tempMinC": 9.2,
+          "tempMaxC": 18.2,
+          "precipitationChance": 1
         },
         {
           "date": "2026-10-30",
-          "tempMinC": 12.9,
-          "tempMaxC": 17.9,
-          "precipitationChance": 24
+          "tempMinC": 10.5,
+          "tempMaxC": 22.5,
+          "precipitationChance": 10
         },
         {
           "date": "2026-10-31",
-          "tempMinC": 10.3,
-          "tempMaxC": 18.3,
-          "precipitationChance": 18
+          "tempMinC": 11.9,
+          "tempMaxC": 18.9,
+          "precipitationChance": 14
         },
         {
           "date": "2026-11-01",
-          "tempMinC": 11.5,
-          "tempMaxC": 19.6,
-          "precipitationChance": 22
+          "tempMinC": 6.3,
+          "tempMaxC": 21.3,
+          "precipitationChance": 9
         },
         {
           "date": "2026-11-02",
-          "tempMinC": 10.9,
-          "tempMaxC": 17.9,
-          "precipitationChance": 2
+          "tempMinC": 7.6,
+          "tempMaxC": 21.6,
+          "precipitationChance": 14
         },
         {
           "date": "2026-11-03",
-          "tempMinC": 9.2,
-          "tempMaxC": 18.2,
-          "precipitationChance": 2
+          "tempMinC": 9.9,
+          "tempMaxC": 20.9,
+          "precipitationChance": 19
         },
         {
           "date": "2026-11-04",
-          "tempMinC": 11.5,
-          "tempMaxC": 21.5,
+          "tempMinC": 11.2,
+          "tempMaxC": 20.2,
+          "precipitationChance": 2
+        },
+        {
+          "date": "2026-11-05",
+          "tempMinC": 9.5,
+          "tempMaxC": 18.5,
           "precipitationChance": 2
         }
       ]
@@ -1716,189 +1716,189 @@
     "DE-bavaria": {
       "locationName": "Bavaria",
       "temperatureC": 19,
-      "humidity": 61,
-      "windKmh": 3,
+      "humidity": 60,
+      "windKmh": 4,
       "precipitationChance": 0,
-      "updatedAt": "2026-10-06T10:16:53.259Z",
+      "updatedAt": "2026-10-07T10:15:20.252Z",
       "forecast30d": [
         {
-          "date": "2026-10-06",
-          "tempMinC": 7,
-          "tempMaxC": 22,
-          "precipitationChance": 3
-        },
-        {
           "date": "2026-10-07",
-          "tempMinC": 9,
-          "tempMaxC": 23,
-          "precipitationChance": 0
+          "tempMinC": 6,
+          "tempMaxC": 24,
+          "precipitationChance": 5
         },
         {
           "date": "2026-10-08",
           "tempMinC": 9,
-          "tempMaxC": 17,
-          "precipitationChance": 74
+          "tempMaxC": 18,
+          "precipitationChance": 83
         },
         {
           "date": "2026-10-09",
-          "tempMinC": 3,
+          "tempMinC": 2,
           "tempMaxC": 15,
-          "precipitationChance": 58
+          "precipitationChance": 15
         },
         {
           "date": "2026-10-10",
           "tempMinC": 9,
-          "tempMaxC": 17,
-          "precipitationChance": 65
+          "tempMaxC": 14,
+          "precipitationChance": 82
         },
         {
           "date": "2026-10-11",
-          "tempMinC": 6,
-          "tempMaxC": 15,
-          "precipitationChance": 36
+          "tempMinC": 5,
+          "tempMaxC": 13,
+          "precipitationChance": 39
         },
         {
           "date": "2026-10-12",
-          "tempMinC": 5,
-          "tempMaxC": 15,
-          "precipitationChance": 13
+          "tempMinC": 2,
+          "tempMaxC": 16,
+          "precipitationChance": 26
         },
         {
           "date": "2026-10-13",
-          "tempMinC": -1,
+          "tempMinC": 0,
           "tempMaxC": 17,
-          "precipitationChance": 10
+          "precipitationChance": 7
         },
         {
           "date": "2026-10-14",
-          "tempMinC": 9,
-          "tempMaxC": 19,
-          "precipitationChance": 13
-        },
-        {
-          "date": "2026-10-15",
-          "tempMinC": 8,
-          "tempMaxC": 20,
+          "tempMinC": 6,
+          "tempMaxC": 16,
           "precipitationChance": 12
         },
         {
+          "date": "2026-10-15",
+          "tempMinC": 7,
+          "tempMaxC": 15,
+          "precipitationChance": 24
+        },
+        {
           "date": "2026-10-16",
-          "tempMinC": 8,
-          "tempMaxC": 13,
-          "precipitationChance": 16
+          "tempMinC": 6,
+          "tempMaxC": 11,
+          "precipitationChance": 22
         },
         {
           "date": "2026-10-17",
-          "tempMinC": 5,
+          "tempMinC": 4,
+          "tempMaxC": 10,
+          "precipitationChance": 29
+        },
+        {
+          "date": "2026-10-18",
+          "tempMinC": 7,
+          "tempMaxC": 12,
+          "precipitationChance": 18
+        },
+        {
+          "date": "2026-10-19",
+          "tempMinC": 10,
           "tempMaxC": 13,
           "precipitationChance": 16
         },
         {
-          "date": "2026-10-18",
-          "tempMinC": 5,
-          "tempMaxC": 10,
-          "precipitationChance": 16
-        },
-        {
-          "date": "2026-10-19",
-          "tempMinC": 2,
-          "tempMaxC": 10,
-          "precipitationChance": 0
-        },
-        {
           "date": "2026-10-20",
-          "tempMinC": 1,
-          "tempMaxC": 11,
-          "precipitationChance": 0
+          "tempMinC": 8,
+          "tempMaxC": 13,
+          "precipitationChance": 22
         },
         {
           "date": "2026-10-21",
           "tempMinC": 4,
-          "tempMaxC": 10,
+          "tempMaxC": 15,
           "precipitationChance": 0
         },
         {
           "date": "2026-10-22",
-          "tempMinC": 8.2,
-          "tempMaxC": 20.2,
-          "precipitationChance": 13
+          "tempMinC": 5,
+          "tempMaxC": 12,
+          "precipitationChance": 0
         },
         {
           "date": "2026-10-23",
-          "tempMinC": 8.3,
-          "tempMaxC": 13.3,
-          "precipitationChance": 17
+          "tempMinC": 6.2,
+          "tempMaxC": 11.2,
+          "precipitationChance": 23
         },
         {
           "date": "2026-10-24",
-          "tempMinC": 4.6,
-          "tempMaxC": 12.6,
-          "precipitationChance": 17
+          "tempMinC": 4.3,
+          "tempMaxC": 10.3,
+          "precipitationChance": 30
         },
         {
           "date": "2026-10-25",
-          "tempMinC": 4.7,
-          "tempMaxC": 9.7,
-          "precipitationChance": 17
+          "tempMinC": 6.6,
+          "tempMaxC": 11.6,
+          "precipitationChance": 19
         },
         {
           "date": "2026-10-26",
-          "tempMinC": 1.9,
-          "tempMaxC": 9.9,
-          "precipitationChance": 1
+          "tempMinC": 9.7,
+          "tempMaxC": 12.7,
+          "precipitationChance": 17
         },
         {
           "date": "2026-10-27",
-          "tempMinC": 1,
-          "tempMaxC": 11,
-          "precipitationChance": 1
+          "tempMinC": 7.9,
+          "tempMaxC": 12.9,
+          "precipitationChance": 23
         },
         {
           "date": "2026-10-28",
-          "tempMinC": 4.2,
-          "tempMaxC": 10.2,
+          "tempMinC": 4,
+          "tempMaxC": 15,
           "precipitationChance": 1
         },
         {
           "date": "2026-10-29",
-          "tempMinC": 8.5,
-          "tempMaxC": 20.5,
-          "precipitationChance": 14
+          "tempMinC": 5.2,
+          "tempMaxC": 12.2,
+          "precipitationChance": 1
         },
         {
           "date": "2026-10-30",
-          "tempMinC": 7.9,
-          "tempMaxC": 12.9,
-          "precipitationChance": 18
+          "tempMinC": 6.5,
+          "tempMaxC": 11.5,
+          "precipitationChance": 24
         },
         {
           "date": "2026-10-31",
-          "tempMinC": 4.3,
-          "tempMaxC": 12.3,
-          "precipitationChance": 18
+          "tempMinC": 3.9,
+          "tempMaxC": 9.9,
+          "precipitationChance": 31
         },
         {
           "date": "2026-11-01",
-          "tempMinC": 4.6,
-          "tempMaxC": 9.5,
-          "precipitationChance": 18
+          "tempMinC": 6.3,
+          "tempMaxC": 11.3,
+          "precipitationChance": 20
         },
         {
           "date": "2026-11-02",
-          "tempMinC": 1.9,
-          "tempMaxC": 9.9,
-          "precipitationChance": 2
+          "tempMinC": 9.5,
+          "tempMaxC": 12.5,
+          "precipitationChance": 18
         },
         {
           "date": "2026-11-03",
-          "tempMinC": 1.2,
-          "tempMaxC": 11.2,
-          "precipitationChance": 2
+          "tempMinC": 7.9,
+          "tempMaxC": 12.9,
+          "precipitationChance": 24
         },
         {
           "date": "2026-11-04",
-          "tempMinC": 4.5,
-          "tempMaxC": 10.5,
+          "tempMinC": 4.2,
+          "tempMaxC": 15.2,
+          "precipitationChance": 2
+        },
+        {
+          "date": "2026-11-05",
+          "tempMinC": 5.5,
+          "tempMaxC": 12.5,
           "precipitationChance": 2
         }
       ]
