@@ -5,7 +5,12 @@
       "Read(//c/RadarYol/**)",
       "Bash(\"/c/Program Files/Google/Chrome/Application/chrome.exe\" --headless=new --disable-gpu --hide-scrollbars --window-size=1024,1024 --force-device-scale-factor=1 --screenshot=\"C:/RadarYol/design-screenshot.png\" \"file:///C:/RadarYol/design.html\")",
       "Bash(python3 -c \"from PIL import Image; im = Image.open\\('C:/RadarYol/design-screenshot.png'\\); print\\(im.size\\)\")",
-      "Bash(powershell.exe -NoProfile -Command 'Add-Type -AssemblyName System.Drawing; $img = [System.Drawing.Image]::FromFile\\('\\\\''C:\\\\RadarYol\\\\design-screenshot.png'\\\\''\\); Write-Output \\(\"$\\($img.Width\\)x$\\($img.Height\\)\"\\); $img.Dispose\\(\\)')"
+      "Bash(powershell.exe -NoProfile -Command 'Add-Type -AssemblyName System.Drawing; $img = [System.Drawing.Image]::FromFile\\('\\\\''C:\\\\RadarYol\\\\design-screenshot.png'\\\\''\\); Write-Output \\(\"$\\($img.Width\\)x$\\($img.Height\\)\"\\); $img.Dispose\\(\\)')",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "mcp__Claude_in_Chrome__browser_batch",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
     ]
   }
 }
